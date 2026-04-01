@@ -1,0 +1,1 @@
+Convert NetCDF (.nc) file data to Excel (.xlsx) format. Reads scientific NetCDF files, extracts variables with their dimensions and attributes, and exports tabular data to Excel spreadsheets. Use when working with oceanographic, meteorological, or climate data in NetCDF format that needs to be converted to Excel.
